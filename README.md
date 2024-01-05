@@ -16,7 +16,7 @@ This program change @@@fuzz1@@@ in templete_data.header into the content of list
 
 This program change @@@fuzz2@@@ in templete_data.header into the content of list_2.txt.
 
-And, the python program send the content of templete_data.header to the server you specify hostname.
+And, this python program send the content of templete_data.header to the server you specify hostname.
 
 ## License
 
