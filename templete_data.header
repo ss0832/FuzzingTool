@@ -3,5 +3,5 @@ Accept: image/gif, image/jpeg, */*
 Accept-Language: en
 Accept-Encoding: gzip, deflate
 User-Agent: Mozilla/4.0 (Compatible; MSIE 6.0; Windows NT 5.1;)
-Host: xxx
+Host: xxx(Please change xxx to host name.)
 Connection: Keep-Alive
