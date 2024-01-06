@@ -30,8 +30,9 @@ Default settings are "https", "tcp", and 443.
 
 This argument is for multithread processing. Default setting is 150.
 
+`-t [interval time to connect host]`
 
-
+Default setting is 1.2 seconds.
 
 ## License
 
