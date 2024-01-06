@@ -134,7 +134,7 @@ class HTTPClient:
         
         except Exception as err:
             print("ERROR: ", err)
-            res = "an error\n"
+            res = "an error occured.: "+str(err)+"\n"
             address = ""
             
         pre_client.close()
@@ -175,7 +175,7 @@ class HTTPClient:
             
         except Exception as err:
             print("ERROR: ", err)
-            res = "an error\n"
+            res = "an error occured.: "+str(err)+"\n"
        
 
         pre_client.close()
