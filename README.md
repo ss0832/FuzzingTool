@@ -1,10 +1,14 @@
 # FuzzingTool
 Fuzzing tool for web application penetration test
 
+
 ## Warning
 
 Use this program only in your own environment and do not use it in someone else's environment without permission.
 
+## Require
+
+- python 3.2<
 
 ## Example
 
