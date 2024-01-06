@@ -43,3 +43,7 @@ Default setting is 1.2 seconds.
 ## License
 
 License of this program is MIT License.
+
+## Contact
+
+highlighty876@gmail.com
