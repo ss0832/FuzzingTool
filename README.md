@@ -10,11 +10,13 @@ Use this program only in your own environment and do not use it in someone else'
 
 - python 3.2<
 
-## Example
+## Usage
 
 ```
 python .\netfuzz.py [host name] -f fuzz1 list_1.txt fuzz2 list_2.txt -p http tcp 80 -t 1.0 -mt 1 -d templete_data.header
 ```
+
+Results of fuzzing test is saved directory named (host name)_(yyyymmddhhmmss(microsecond)).
 
 ## Options
 
